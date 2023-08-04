@@ -23,6 +23,6 @@
 
 That's it for now, thanks for reading :)
 
-##DMCA
+## DMCA
 1.All rights to materials, concepts, etc. belong to user [Deep-Sea Prisoner](http://funamusea.com/about.html). All materials are used not for the purpose of personal enrichment, but as a recreation of locations/models from 2d concepts, so that you can remember the old days and visit the locations of this wonderful JRPG in Gmod
 2. Special thanks to [this person](https://steamcommunity.com/profiles/76561198959767048) for providing the basis of the map, I would hardly have made it myself.
