@@ -19,15 +19,15 @@
 # ENG
 
 ## Main info
-1. [Donate](https://steamcommunity.com/tradeoffer/new/?partner=313573661&token=QBvXLfDk) All money received from donations - will go to the further development of the map, orders from modeller, to all donaters will report for the waste. With any donation I will add your nickname in a special room of supporters
+1.[Donate](https://steamcommunity.com/tradeoffer/new/?partner=313573661&token=QBvXLfDk) All money received from donations - will go to the further development of the map, orders from modeller, to all donaters will report for the waste. With any donation I will add your nickname in a special room of supporters
 
-2. [TG](https://t.me/aiaramit) write only: if you found bugs, if you have ideas or want to implement, if you want to help with further map development
+2.[TG](https://t.me/aiaramit) write only: if you found bugs, if you have ideas or want to implement, if you want to help with further map development
 
-3. [Steam](https://steamcommunity.com/id/Aiaramit/) I don't accept friends for the reason of "Play togetheer", also only for business reasons
+3.[Steam](https://steamcommunity.com/id/Aiaramit/) I don't accept friends for the reason of "Play togetheer", also only for business reasons
 
 That's it for now, thanks for reading :)
 
 ## DMCA
 1.All rights to materials, concepts, etc. belong to user [Deep-Sea Prisoner](http://funamusea.com/about.html). All materials are used not for the purpose of personal enrichment, but as a recreation of locations/models from 2d concepts, so that you can remember the old days and visit the locations of this wonderful JRPG in Gmod
 
-2. Special thanks to [this person](https://steamcommunity.com/profiles/76561198959767048) for providing the basis of the map, I would hardly have made it myself
+2.Special thanks to [this person](https://steamcommunity.com/profiles/76561198959767048) for providing the basis of the map, I would hardly have made it myself
