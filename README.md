@@ -1,8 +1,6 @@
 # RUS
 
 ## Важная инфа
-1.[Донат](https://www.donationalerts.com/r/aiaramitgmod) Все деньги полученные с донатов - пойдут на дальнейшее развитие карты, заказы у моделедела, всем донатерам отчитаюсь за растраты. При любом донате добавлю ваш ник в специальную комнату поддерживающих
-
 2.[ТГ](https://t.me/aiaramit) Писать только: если нашли баги, если у вас есть идеи или вы хотите реализовать, если вы хотите помочь с дальнейшей разработкой карты
 
 3.[Steam](https://steamcommunity.com/id/Aiaramit/) В друзья по причине "Поиграть" не принимаю в друзья, тоже только по делу
@@ -19,8 +17,6 @@
 # ENG
 
 ## Main info
-1.[Donate](https://steamcommunity.com/tradeoffer/new/?partner=313573661&token=QBvXLfDk) All money received from donations - will go to the further development of the map, orders from modeller, to all donaters will report for the waste. With any donation I will add your nickname in a special room of supporters
-
 2.[TG](https://t.me/aiaramit) write only: if you found bugs, if you have ideas or want to implement, if you want to help with further map development
 
 3.[Steam](https://steamcommunity.com/id/Aiaramit/) I don't accept friends for the reason of "Play togetheer", also only for business reasons
