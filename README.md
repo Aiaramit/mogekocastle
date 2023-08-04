@@ -19,7 +19,7 @@
 # ENG
 
 ## Main info
-1.[Donate](https://steamcommunity.com/tradeoffer/new/?partner=313573661&token=QBvXLfDk) All money received from donations - will go to the further development of the map, orders from modeller, to all donaters will report for the waste. With any donation I will add your nickname in a special room of supporters
+1. [Donate](https://steamcommunity.com/tradeoffer/new/?partner=313573661&token=QBvXLfDk) All money received from donations - will go to the further development of the map, orders from modeller, to all donaters will report for the waste. With any donation I will add your nickname in a special room of supporters
 
 2. [TG](https://t.me/aiaramit) write only: if you found bugs, if you have ideas or want to implement, if you want to help with further map development
 
