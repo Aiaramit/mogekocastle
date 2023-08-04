@@ -1,9 +1,9 @@
 # RUS
 
 ## Важная инфа
-2.[ТГ](https://t.me/aiaramit) Писать только: если нашли баги, если у вас есть идеи или вы хотите реализовать, если вы хотите помочь с дальнейшей разработкой карты
+1.[ТГ](https://t.me/aiaramit) Писать только: если нашли баги, если у вас есть идеи или вы хотите реализовать, если вы хотите помочь с дальнейшей разработкой карты
 
-3.[Steam](https://steamcommunity.com/id/Aiaramit/) В друзья по причине "Поиграть" не принимаю в друзья, тоже только по делу
+2.[Steam](https://steamcommunity.com/id/Aiaramit/) В друзья по причине "Поиграть" не принимаю в друзья, тоже только по делу
 
 На этом всё, спасибо за то, что вы читаете :)
 
@@ -17,9 +17,9 @@
 # ENG
 
 ## Main info
-2.[TG](https://t.me/aiaramit) write only: if you found bugs, if you have ideas or want to implement, if you want to help with further map development
+1.[TG](https://t.me/aiaramit) write only: if you found bugs, if you have ideas or want to implement, if you want to help with further map development
 
-3.[Steam](https://steamcommunity.com/id/Aiaramit/) I don't accept friends for the reason of "Play togetheer", also only for business reasons
+2.[Steam](https://steamcommunity.com/id/Aiaramit/) I don't accept friends for the reason of "Play togetheer", also only for business reasons
 
 That's it for now, thanks for reading :)
 
